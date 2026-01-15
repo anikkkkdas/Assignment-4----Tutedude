@@ -14,7 +14,7 @@ This program reads data from a text file named `sample.txt` and prints its conte
 - Reads data line by line
 - Gracefully handles `FileNotFoundError`
 
-###What the Code Does
+### What the Code Does
 1. Attempts to open `sample.txt` in read mode
 2. Reads the first two lines from the file
 3. Prints each line with a label
